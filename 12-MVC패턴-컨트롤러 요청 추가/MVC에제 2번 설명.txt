@@ -1,0 +1,14 @@
+HomeController에
+여러가지 세부 요청을 추가한다.
+(HomeController에 살을 붙이기 시작한다.)
+
+http://localhost:8181/ex/board/view
+http://localhost:8181/ex/board/content
+http://localhost:8181/ex/board/reply
+
+세분화된 요청에 따라 내부에서 어떠한 기능들을 수행한다음
+결국에는 return "board/view"이런식으로 되면
+views폴더의 board폴더의 view.jsp화면으로 이동된다.
+
+(마지막 요청은 ModelAndView사용하여 결과는 같지만 방법이 살짝 다름)
+(Model을 쓰느냐? ModelAndView를 쓰느냐?)

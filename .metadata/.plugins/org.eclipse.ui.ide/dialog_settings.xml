@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Ryustam\Desktop\spring2\15.MVC+MyBatis연동 예제"/>
+			<item value="C:\Users\Ryustam\Desktop\spring2\12-MVC패턴-컨트롤러 요청 추가\spring_12_1_ex1_springex"/>
+			<item value="C:\Users\Ryustam\Desktop\spring\12-MVC패턴-컨트롤러 요청 추가"/>
+			<item value="C:\Users\Ryustam\Desktop\spring2\13.MVC패턴-쿼리스트링 테스트"/>
+		</list>
+	</section>
+</section>

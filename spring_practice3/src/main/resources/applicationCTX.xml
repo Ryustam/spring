@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="time" class="com.javalec.ex.Time">
+		<constructor-arg type="int" value="3690" />
+	</bean>
+	
+	<bean id="timeConv" class="com.javalec.ex.Time_Conversion">
+		<constructor-arg>
+			<ref bean="time" />
+		</constructor-arg>
+	</bean>
+
+</beans>

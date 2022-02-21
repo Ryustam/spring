@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 2 resources" deleteContents="true" description="Delete 2 resources" element1="/12-MVC패턴-컨트롤러 요청 추가" element2="/spring_12_1_ex1_springex" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1638843501689"/>
+</session>

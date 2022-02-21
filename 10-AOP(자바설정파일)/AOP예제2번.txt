@@ -1,0 +1,11 @@
+proceedingJoinPoint는 proceed메서드를 노출한다
+aspect(애즈팩트)안에 있는 어드바이스 주변을 지원하기 위해서
+
+개념정리
+-AOP란? (Aspect Of Programming) - 관점지향 프로그래밍
+-Aspect, Advice, PointCut, Proxy, ProceedingJoinPoint
+-Main-Concerns, Cross-Cutting-Concerns
+
+-AOP xml방식, java방식
+
+(자료 참고, 공식문서 참고, 블로그 참고, 구글링, 개념 학습)

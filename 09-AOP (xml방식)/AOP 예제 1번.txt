@@ -1,0 +1,8 @@
+joinpoint가 내가 원래 수행하려했던
+Student,Worker객체
+AOP를 설정해주면 (xml에 설정)
+loggerAop메서드가 알아서 껴들어온다.
+(proxy pattern이 적용됨)-대리인
+
+joinpoint.proceed()가
+원래 수행하려했던 메서드를 실행하는 코드

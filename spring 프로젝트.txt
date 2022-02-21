@@ -1,0 +1,9 @@
+12.07
+
+mvc+ mybatis 프로젝트 구조, 소스 분석
+
+이 기본 틀에다
+
+살을 붙여서 만들어가면 프로젝트가 됨
+
+controller-service-dao-mapper-sqlsession

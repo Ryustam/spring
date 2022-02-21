@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+C:\Users\Ryustam\Desktop\spring2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2888018584.index
+\spring_13_1_ex1_springex\src\main\java
+C:\Users\Ryustam\Desktop\spring2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1419453772.index
+\spring_13_1_ex1_springex\src\main\java
+C:\Users\Ryustam\Desktop\spring2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3879399166.index
+\spring_13_1_ex1_springex\src\main\java
+C:\Users\Ryustam\Desktop\spring2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2998273136.index
+\spring_13_1_ex1_springex\src\main\java
+C:\Users\Ryustam\Desktop\spring2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1029167425.index
+\spring_12_1_ex1_springex\src\main\java
+C:\Users\Ryustam\Desktop\spring2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4257022648.index
+\spring_13_1_ex1_springex\src\main\java
+C:\Users\Ryustam\Desktop\spring2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1963747787.index
+\Spring_DB_MySQL\src\main\java
+C:\Users\Ryustam\Desktop\spring2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3447693283.index
+\spring_12_1_ex1_springex\src\main\java

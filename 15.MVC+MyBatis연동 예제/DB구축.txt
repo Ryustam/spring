@@ -1,0 +1,23 @@
+create database spring_mvc;
+
+use spring_mvc;
+
+create table person(
+name varchar(10),
+height double,
+weight double
+);
+
+insert into person(name,height,weight) values ('박호범', 175.3, 67);
+insert into person(name,height,weight) values ('정채연', 163.2, 48);
+insert into person(name,height,weight) values ('김준현', 185.3, 98);
+
+select * from person;
+
+권한부여
+password관련 에러
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '1234';
+
+cache size 에러
+mysql 버전업
+8.0으로
